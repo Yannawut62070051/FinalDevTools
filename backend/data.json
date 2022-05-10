@@ -1,0 +1,51 @@
+[
+    {
+        "course": "การจัดการความปลอดภัยอาหาร",
+        "studyPlan": "แผน ก2 | ช่วงเวลาเรียน : ปกติ | เฉพาะ",
+        "date": "22 กุมภาพันธ์ 2022 - 10 มิถุนายน 2022",
+        "fauculty": "อุตสาหกรรมอาหาร",
+        "recruit": "http://www1.reg.kmitl.ac.th/graduate/files/2565_1_news1_1638_2022_03_21-14-03-01_63ffa.pdf",
+        "attribute": "https://new.reg.kmitl.ac.th/admission/api/?function=get-document-file&service_type=config-curriculum&response_type=file&CURRICULUM_ID=2988"
+    },
+    {
+        "course": "การจัดการความปลอดภัยอาหาร",
+        "studyPlan": "แผน ก2 | ช่วงเวลาเรียน : ปกติ | เฉพาะ ",
+        "date": "23 กุมภาพันธ์ 2022 - 10 มิถุนายน 2022",
+        "fauculty": "อุตสาหกรรมอาหาร",
+        "recruit": "http://www1.reg.kmitl.ac.th/graduate/files/2565_1_news1_1635_2022_03_18-09-45-59_b1401.pdf",
+        "attribute": "https://new.reg.kmitl.ac.th/admission/api/?function=get-document-file&service_type=config-curriculum&response_type=file&CURRICULUM_ID=2962"
+    },
+    {
+        "course": "การบริหารการศึกษา",
+        "studyPlan": "แผน ก2 | ช่วงเวลาเรียน : พิเศษ | เฉพาะ",
+        "date": "4 มีนาคม 2022 - 10 มิถุนายน 2022",
+        "fauculty": "ครุศาสตร์อุตสาหกรรมและเทคโนโลยี",
+        "recruit": "http://www1.reg.kmitl.ac.th/graduate/files/2565_1_news1_1617_2022_03_04-12-16-51_44018.pdf",
+        "attribute": "https://new.reg.kmitl.ac.th/admission/api/?function=get-document-file&service_type=config-curriculum&response_type=file&CURRICULUM_ID=2918"
+    },
+    {
+        "course": "การพัฒนาเทคโนโลยีสุขภาพ",
+        "studyPlan": "แผน ก2 | ช่วงเวลาเรียน : ปกติ | เฉพาะ",
+        "date": "9 พฤษภาคม 2022 - 10 มิถุนายน 2022",
+        "fauculty": "แพทยศาสตร์",
+        "recruit": "https://reg.kmitl.ac.th/graduate/files/2565_1_news1_1675_2022_05_09-08-12-57_d1028.pdf",
+        "attribute": "https://new.reg.kmitl.ac.th/admission/api/?function=get-document-file&service_type=config-curriculum&response_type=file&CURRICULUM_ID=3186"
+    },
+    {
+        "course": "การวางแผนชุมชนเมืองและสภาพแวดล้อม",
+        "studyPlan": "แผน ก1 | ช่วงเวลาเรียน : ปกติ | เฉพาะ",
+        "date": "24 กุมภาพันธ์ 2022 - 31 พฤษภาคม 2022",
+        "fauculty": "สถาปัตยกรรม ศิลปะและการออกแบบ",
+        "recruit": "http://www1.reg.kmitl.ac.th/graduate/files/2565_1_news1_1660_2022_04_18-15-46-23_a992a.pdf",
+        "attribute": "https://new.reg.kmitl.ac.th/admission/api/?function=get-document-file&service_type=config-curriculum&response_type=file&CURRICULUM_ID=3078"
+    },
+    {
+        "course": "การสื่อสารและวิทยาการสารสนเทศทางการเกษตร (พหุวิทยาการ)",
+        "studyPlan": "แผน ก1 | ช่วงเวลาเรียน : ปกติ | เฉพาะ",
+        "date": "31 มีนาคม 2022 - 8 มิถุนายน 2022",
+        "fauculty": "เทคโนโลยีการเกษตร",
+        "recruit": "http://www1.reg.kmitl.ac.th/graduate/files/2565_1_news1_1644_2022_03_31-09-23-08_24535.pdf",
+        "attribute": "https://new.reg.kmitl.ac.th/admission/api/?function=get-document-file&service_type=config-curriculum&response_type=file&CURRICULUM_ID=3018"
+    }
+    
+]
