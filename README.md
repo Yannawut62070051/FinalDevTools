@@ -1,8 +1,17 @@
 # FinalDevTools
- 
+
+[(ระบบรับสมัครนักศึกษาระดับปริญญาโท)](https://new.reg.kmitl.ac.th/admission/#/master/explore)
+<img src="https://media.discordapp.net/attachments/359264738695446532/973479186851332116/unknown.png?width=1204&height=670" alt=""/>
+<img src="https://media.discordapp.net/attachments/359264738695446532/973480698822418462/unknown.png?width=1315&height=670" alt=""/>
+เป็บเว็บไซต์รับสมัครนักศึกษาระดับปริญญาโท โดยในส่วนของ features จะประกอบไปด้วย
+* ค้นหาจากการ filter ซึ่่งประกอบไปด้วย dropdown ค้นหาด้วย คณะ, รอบรับสมัคร, โครงการ, หลักสูตรไทย/นานาชาติ
+* ค้นหาเพิ่มเติมจากการพิมพ์ชื่อโดยทำการหาจากชื่อคณะหรือหลักสูตร
+* แสดงผล
+เว็บไซต์ต้อน
 ## Userflow
 <img src="https://media.discordapp.net/attachments/359264738695446532/973477217864667136/unknown.png?width=1440&height=389" alt=""/>
 
+เมื่อผู้ใช้เปิดมาจะพบกับหน้า
 
 
 ### Pull Code
