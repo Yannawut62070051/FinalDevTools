@@ -1,7 +1,7 @@
 # FinalDevTools
  
 ## Frontend [(team-13-frontend)](http://128.199.188.21:8080/job/team-13-frontend/)
-<img src="https://cdn.discordapp.com/attachments/936914602225172501/955081252539617280/unknown.png" alt="" width="1000" height="272"/>
+<img src="https://media.discordapp.net/attachments/359264738695446532/973477217864667136/unknown.png?width=1440&height=389" alt=""/>
 
 
 
